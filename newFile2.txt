@@ -1,2 +1,4 @@
 This is for practice only.
 This job will be triggered by Git-webhook
+
+*/2 * * * * PollSCM Trigger
